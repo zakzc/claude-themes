@@ -1,0 +1,1 @@
+{ "name": "halftone-dusk", "version": "0.2.0", "description": "A dusk theme: plum-indigo surfaces, sunset accents, a slow halftone-dot sunset, and a side pane with plan usage, context fill and running sub-agents.", "types": "./types/index.d.ts" }

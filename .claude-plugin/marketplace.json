@@ -1,0 +1,5 @@
+{
+  "name": "claude-themes",
+  "owner": { "name": "zakzc" },
+  "plugins": [{ "name": "halftone-dusk", "source": "./" }]
+}
